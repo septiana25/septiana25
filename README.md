@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @septiana25
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Fronend Developer
 
 
 <!---
