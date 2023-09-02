@@ -1,5 +1,5 @@
-# Ian Septiana
-<img src="https://ik.imagekit.io/n0t5masg5jg/persona/ezgif.com-gif-maker__3__h3nyy_q_V.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648714821182" height="30"/>
+# Ian Septiana <img src="https://ik.imagekit.io/n0t5masg5jg/persona/ezgif.com-gif-maker__3__h3nyy_q_V.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648714821182" height="30"/>
+
 - 👋 Hi, I’m @septiana25
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Fronend Developer
