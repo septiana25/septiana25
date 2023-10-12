@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Fronend Developer
 
-[![septiana25 GitHub stats](https://github-readme-stats.vercel.app/api?username=septiana25)](https://github.com/septiana25/github-readme-stats) <a href="https://github.com/septiana25"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=septiana25&layout=compact&theme=buefy&hide_border=true" /></a>
+[![septiana25 GitHub stats](https://github-readme-stats.vercel.app/api?username=septiana25)](https://github.com/septiana25) <a href="https://github.com/septiana25"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=septiana25&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <!---
 septiana25/septiana25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
